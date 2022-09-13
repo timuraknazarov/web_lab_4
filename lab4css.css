@@ -15,6 +15,8 @@ header{
     align-items: center;
     height: 5vh;
     width: 100%;
+    position: fixed;
+    top: 0;
 }
 .logo{
     margin: auto 15vw;
